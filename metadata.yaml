@@ -1,0 +1,33 @@
+_repo: The-motion-picture-chums-new-idea-b-or-The-first-educational-photo-playhouse_75238
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2025-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75238'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433089431831&view=1up&seq=7
+pgterms:marc905: 20221123171039appleton
+pgterms:marc906: '1914'
+pgterms:marc907: us
+production_note: Aaron Adrignola, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston (Mass.) -- Juvenile fiction'
+- !lcsh 'Motion picture theaters -- Juvenile fiction'
+- !lcsh 'Motion picture theater managers -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The motion picture chums'' new idea : $b or, The first educational photo playhouse'
+url: http://www.gutenberg.org/ebooks/75238
